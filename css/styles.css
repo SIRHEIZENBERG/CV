@@ -1,0 +1,9 @@
+body {background-color: rgb(185, 185, 236);}
+hr {background-color: rgb(197, 195, 195);border-style:dashed; height: 0px; width: 30%;
+border-color: grey;
+border-width: 1px;}
+h1{font-style: inherit;color: aqua;}
+h3{font-style: inherit;color: aqua;}
+h2{font-style: inherit;color: aqua;}
+img{border-radius: 50%;}
+h4{font-style: inherit;color: aqua;}
