@@ -1,0 +1,6 @@
+img{ background-color: rgb(49, 130, 201); border-radius: 50%;} 
+h1{ font-style: inherit; color: aqua;}
+body{background-color: rgb(186, 186, 240);}
+h2{ font-style: inherit; color: aqua;}
+h3{ font-style: inherit; color: aqua;}
+img:hover{background-color: rgb(223, 165, 19);}
