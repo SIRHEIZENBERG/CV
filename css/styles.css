@@ -1,0 +1,77 @@
+body{
+    text-align: center;    
+    background-color: #FFEBAD;
+    font-family:serif;
+    font-style: inherit;
+}
+h1{
+   font-style: inherit;
+   color: rgb(153, 111, 59);
+}
+h2{ font-family: 
+    sans-serif;
+    font-weight: 100;
+    font-style: inherit;
+    color:  rgb(153, 111, 59);}
+h3{ font-family: 
+    sans-serif;
+    font-weight: 100;
+    font-style: inherit;
+    color:  rgb(153, 111, 59);}
+.cloud-1{
+    position:relative;
+    left: 300px;
+    top: 20px;}
+.cloud-2{
+    position: relative;
+    right: 300px;
+    top: 20px;}
+.komu-profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;}
+.comp-icon{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%; }
+.komu-div1 {position: relative;}
+.comp-icon{
+    height: 200px;
+    width: 200px;}
+.top-container{
+    position: relative;
+    height: 500px;
+    width: 1000px;
+    background-color:
+    darkseagreen;
+    left: 100px; }
+
+.upper-container{
+    height: 600px;
+    width: 1300px;
+    background-color:#FFEBAD;
+    background-attachment:relative;
+    }
+.mountain{
+    position: relative;
+    left: 200px;
+    top: 100px;
+    }
+.cloud{
+    position: relative;
+    bottom: 200px;
+    right: 400px;
+}
+.cloud-2{
+    position: relative;
+    bottom: 600px;
+    right: 600px;
+    visibility: hidden;}
+.sun{
+    position: relative;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    right: 250px;
+    bottom: 200px;
+    }
